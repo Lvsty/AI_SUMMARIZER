@@ -14,4 +14,14 @@ A Chrome extension that summarizes articles using Google's Gemini API. Designed 
 - On first install, the extension opens the options page
 - Paste your Gemini API key and click **Save**
 - You're ready to start summarizing articles!
+## FILE OVERVIEW
+| File            | Purpose |
+|-----------------|---------|
+| `manifest.json` | Defines extension structure and permissions |
+| `popup.html/js` | UI and logic for triggering summaries |
+| `option.html/js`| Setup page for entering Gemini API key |
+| `background.js` | Opens options page on first install |
+| `content.js`    | Extracts readable text from the current webpage |
+| `icon.png`      | Extension icon shown in Chrome toolbar |
+
   
