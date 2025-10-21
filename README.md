@@ -24,4 +24,5 @@ A Chrome extension that summarizes articles using Google's Gemini API. Designed 
 | `content.js`    | Extracts readable text from the current webpage |
 | `icon.png`      | Extension icon shown in Chrome toolbar |
 
-  
+## CREDITS
+Built by CHITHRASHREE D using GEMINI API and Chrome Extension APIs
