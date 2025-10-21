@@ -9,4 +9,9 @@ A Chrome extension that summarizes articles using Google's Gemini API. Designed 
 1. Clone or download this repository
 2. Open Chrome and go to `chrome://extensions/`
 3. Enable **Developer mode** (top right)
-4. Click **Load unpacked** and select the project folder  
+4. Click **Load unpacked** and select the project folder
+## SETUP
+- On first install, the extension opens the options page
+- Paste your Gemini API key and click **Save**
+- You're ready to start summarizing articles!
+  
